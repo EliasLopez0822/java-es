@@ -6,7 +6,7 @@ public class area_de_un_hexagono {
         
         Scanner val  = new Scanner(System.in);
 
-        System.out.print("Ingrese el valor de hexagono: ");
+        System.out.print("Ingrese el valor de apotema hexagono: ");
         apotema = val.nextFloat();
         
         System.out.print("Ingrese el perimetro del hexagono : ");

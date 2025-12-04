@@ -10,7 +10,7 @@ public class area_de_un_circulo {
         radio = val.nextFloat();
         
         pi=3.1416;
-        area = (radio * pi*pi) ;
+        area = (radio * pi)**2 ;
       
 
         System.out.println("Área del rectángulo: " + area);
